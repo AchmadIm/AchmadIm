@@ -18,21 +18,7 @@
 ![AchmadIm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchmadIm&theme=merko&hide_border=true)
 ![AchmadIm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadIm&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
+
 
 <!--
 **AchmadIm/AchmadIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
