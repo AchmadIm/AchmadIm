@@ -1,10 +1,10 @@
-### Hai Guys 👋 Namaku Achmad Imam Dairobbi
+### Hallo Guys 👋 Namaku Achmad Imam Dairobbi
 
-🎓 Mahasiswa Semester 5 di Universitas PGRI Yogyakarta
-🚀 Mentee di Infinite Learning, fokus pada HTML, CSS, JavaScript, PHP, dan Bootstrap
-💡 Saya sangat antusias dalam mengembangkan situs web dan aplikasi yang interaktif dan kreatif.
-🛠️ Saat ini, saya bekerja pada beberapa proyek web yang melibatkan teknologi-teknologi yang saya pelajari.
-📫 Jika Anda tertarik untuk berkolaborasi atau berdiskusi, jangan ragu untuk menghubungi saya!
+<p>🎓 Mahasiswa Semester 5 di Universitas PGRI Yogyakarta</p>
+<p>🚀 Mentee di Infinite Learning Indonesia, Program Web Development,Fokus pada pengembangan Website</p>
+<p>💡 Saya sangat antusias dalam mengembangkan situs web dan aplikasi yang interaktif dan kreatif.</p>
+<p>🛠️ Saat ini, saya bekerja pada beberapa proyek web yang melibatkan teknologi-teknologi yang saya pelajari.</p>
+<p>📫 Jika Anda tertarik untuk berkolaborasi atau berdiskusi, jangan ragu untuk menghubungi saya!</p>
 
 🔗 Temukan lebih banyak proyek dan kontribusi saya di sini.
 
