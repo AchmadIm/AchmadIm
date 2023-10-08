@@ -34,12 +34,6 @@
     - ⚡ Fun fact: ... </br>
 </details>
 
-
-### Let's connect!
-<p>
-    <a href="https://www.linkedin.com/in/achmad-imam-dairobbi-728248259/" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-</p>
-
 <!--
 **AchmadIm/AchmadIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
