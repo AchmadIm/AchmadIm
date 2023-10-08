@@ -1,5 +1,13 @@
 ### Hai Guys 👋 Namaku Achmad Imam Dairobbi
 
+🎓 Mahasiswa Semester 5 di Universitas PGRI Yogyakarta
+🚀 Mentee di Infinite Learning, fokus pada HTML, CSS, JavaScript, PHP, dan Bootstrap
+💡 Saya sangat antusias dalam mengembangkan situs web dan aplikasi yang interaktif dan kreatif.
+🛠️ Saat ini, saya bekerja pada beberapa proyek web yang melibatkan teknologi-teknologi yang saya pelajari.
+📫 Jika Anda tertarik untuk berkolaborasi atau berdiskusi, jangan ragu untuk menghubungi saya!
+
+🔗 Temukan lebih banyak proyek dan kontribusi saya di sini.
+
 ## Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -30,9 +38,6 @@
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/achmad-imam-dairobbi-728248259/" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
