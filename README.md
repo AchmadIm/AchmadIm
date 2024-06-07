@@ -1,7 +1,6 @@
 ### Hallo Guys 👋 Namaku Achmad Imam Dairobbi
 
-<p>🎓 Mahasiswa Semester 5 di Universitas PGRI Yogyakarta</p>
-<p>🚀 Mentee di Infinite Learning Indonesia, Program Web Development,Fokus pada pengembangan Website</p>
+<p>🎓 Mahasiswa Semester 6 di Universitas PGRI Yogyakarta</p>
 <p>💡 Saya sangat antusias dalam mengembangkan situs web dan aplikasi yang interaktif dan kreatif.</p>
 
 🔗 Temukan lebih banyak proyek dan kontribusi saya di sini.
