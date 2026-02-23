@@ -1,6 +1,6 @@
 ### Hallo Guys 👋 Namaku Achmad Imam Dairobbi
 
-<p>🎓 Mahasiswa Semester 6 di Universitas PGRI Yogyakarta</p>
+<p>🎓 Lulusan S1 Informatika Universitas PGRI Yogyakarta dengan IPK 3.87.</p>
 <p>💡 Saya sangat antusias dalam mengembangkan situs web dan aplikasi yang interaktif dan kreatif.</p>
 
 🔗 Temukan lebih banyak proyek dan kontribusi saya di sini.
